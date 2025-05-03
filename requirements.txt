@@ -1,3 +1,14 @@
 tensorflow==2.15.0
 matplotlib
 numpy
+pathlib
+numpy
+matplotlib
+glob2
+zipfile36
+seaborn
+pandas
+pytest-warnings
+logging
+absl-extra
+absl-py
