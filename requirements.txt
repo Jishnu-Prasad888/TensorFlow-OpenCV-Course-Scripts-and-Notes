@@ -9,6 +9,6 @@ zipfile36
 seaborn
 pandas
 pytest-warnings
-logging
 absl-extra
 absl-py
+tensorflow-hub
